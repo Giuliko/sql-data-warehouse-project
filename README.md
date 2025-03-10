@@ -38,5 +38,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I am **Emanoel Almeida**, also knows as **Giuliko**. I am a Data/Business Analyst on a mission to share knowledge and help leaders to make strategic decisions.  
-  *(**
+Hi there! I am **Emanoel Almeida**, also knows as **Giuliko**. I am a Data/Business Analyst on a mission to share knowledge and help leaders to make strategic decisions.
